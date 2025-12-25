@@ -1,0 +1,5 @@
+{
+  "name": "VoxNavigator 3D",
+  "description": "An advanced 3D data visualization platform that allows users to upload CSV files, map 5D data into interactive 3D space, and explore categorical clusters through an immersive 'fly-through' experience.",
+  "requestFramePermissions": []
+}
